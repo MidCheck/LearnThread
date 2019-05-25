@@ -1,2 +1,2 @@
 # LearnThread
-Learning to write multithreaded programs
+Learning to write multithreaded programs.
