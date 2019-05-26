@@ -4,6 +4,7 @@
 #include "LinkNode.h"
 
 #ifndef _TEMPLATE
+
 class CLink
 {
 public:
